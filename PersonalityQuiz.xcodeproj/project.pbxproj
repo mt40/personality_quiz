@@ -15,6 +15,7 @@
 		5C536B7825C06C21004898B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C536B7625C06C21004898B2 /* LaunchScreen.storyboard */; };
 		5C536B8125C0EF6B004898B2 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C536B8025C0EF6B004898B2 /* QuestionViewController.swift */; };
 		5C536B8425C0EF89004898B2 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C536B8325C0EF89004898B2 /* ResultsViewController.swift */; };
+		5C536B8825C4588D004898B2 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C536B8725C4588C004898B2 /* Question.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		5C536B7925C06C21004898B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C536B8025C0EF6B004898B2 /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
 		5C536B8325C0EF89004898B2 /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
+		5C536B8725C4588C004898B2 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				5C536B6D25C06C12004898B2 /* SceneDelegate.swift */,
 				5C536B6F25C06C12004898B2 /* IntroViewController.swift */,
 				5C536B7125C06C12004898B2 /* Main.storyboard */,
+				5C536B8725C4588C004898B2 /* Question.swift */,
 				5C536B8025C0EF6B004898B2 /* QuestionViewController.swift */,
 				5C536B8325C0EF89004898B2 /* ResultsViewController.swift */,
 				5C536B7425C06C21004898B2 /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 				5C536B7025C06C12004898B2 /* IntroViewController.swift in Sources */,
 				5C536B6C25C06C12004898B2 /* AppDelegate.swift in Sources */,
 				5C536B8125C0EF6B004898B2 /* QuestionViewController.swift in Sources */,
+				5C536B8825C4588D004898B2 /* Question.swift in Sources */,
 				5C536B8425C0EF89004898B2 /* ResultsViewController.swift in Sources */,
 				5C536B6E25C06C12004898B2 /* SceneDelegate.swift in Sources */,
 			);
